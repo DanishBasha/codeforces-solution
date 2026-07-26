@@ -6,16 +6,23 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 2 |
+| 2 | 3 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [Uncategorized](#uncategorized) (1)
 - [dp](#dp) (1)
 - [strings](#strings) (1)
 
 ---
+
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2250A | [Threshold Movement](https://codeforces.com/contest/2250/problem/A) | Unrated | [Java 21](https://github.com/DanishBasha/codeforces-solution/blob/HEAD/2250/A%20-%20Threshold%20Movement/solution.java) |
 
 ### dp
 
