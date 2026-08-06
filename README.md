@@ -6,16 +6,16 @@
 
 | Total Problems | Topics |
 |---|---|
-| 4 | 5 |
+| 3 | 5 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (2)
+- [Uncategorized](#uncategorized) (1)
 - [dp](#dp) (1)
 - [implementation](#implementation) (1)
-- [math](#math) (1)
+- [sortings](#sortings) (1)
 - [strings](#strings) (1)
 
 ---
@@ -24,8 +24,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
-| 2248A | [You Delete, I Delete](https://codeforces.com/contest/2248/problem/A) | Unrated | [Java 21](https://github.com/DanishBasha/codeforces-solution/blob/HEAD/2248/A%20-%20You%20Delete%2C%20I%20Delete/solution.java) |
-| 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | Unrated | [Java 21](https://github.com/DanishBasha/codeforces-solution/blob/HEAD/2254/A%20-%20Riptide/solution.java) |
+| 2250A | [Threshold Movement](https://codeforces.com/contest/2250/problem/A) | Unrated | [Java 21](https://github.com/DanishBasha/codeforces-solution/blob/HEAD/2250/A%20-%20Threshold%20Movement/solution.java) |
 
 ### dp
 
@@ -37,13 +36,13 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
-| 2250A | [Threshold Movement](https://codeforces.com/contest/2250/problem/A) | Unrated | [Java 21](https://github.com/DanishBasha/codeforces-solution/blob/HEAD/2250/A%20-%20Threshold%20Movement/solution.java) |
+| 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | Unrated | [Java 21](https://github.com/DanishBasha/codeforces-solution/blob/HEAD/2254/A%20-%20Riptide/solution.java) |
 
-### math
+### sortings
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
-| 2250A | [Threshold Movement](https://codeforces.com/contest/2250/problem/A) | Unrated | [Java 21](https://github.com/DanishBasha/codeforces-solution/blob/HEAD/2250/A%20-%20Threshold%20Movement/solution.java) |
+| 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | Unrated | [Java 21](https://github.com/DanishBasha/codeforces-solution/blob/HEAD/2254/A%20-%20Riptide/solution.java) |
 
 ### strings
 
