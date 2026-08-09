@@ -6,18 +6,20 @@
 
 | Total Problems | Topics |
 |---|---|
-| 5 | 6 |
+| 6 | 8 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [Uncategorized](#uncategorized) (2)
-- [dp](#dp) (1)
+- [dp](#dp) (2)
+- [games](#games) (1)
+- [greedy](#greedy) (1)
 - [implementation](#implementation) (1)
 - [math](#math) (2)
 - [sortings](#sortings) (1)
-- [strings](#strings) (1)
+- [strings](#strings) (2)
 
 ---
 
@@ -33,6 +35,19 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2242D | [Two Digit Strings](https://codeforces.com/contest/2242/problem/D) | 1600 | [Java 21](https://github.com/DanishBasha/codeforces-solution/blob/HEAD/2242/D%20-%20Two%20Digit%20Strings/solution.java) |
+| 2244A | [Iskander and Drawings](https://codeforces.com/contest/2244/problem/A) | 800 | [Java 21](https://github.com/DanishBasha/codeforces-solution/blob/HEAD/2244/A%20-%20Iskander%20and%20Drawings/solution.java) |
+
+### games
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2244A | [Iskander and Drawings](https://codeforces.com/contest/2244/problem/A) | 800 | [Java 21](https://github.com/DanishBasha/codeforces-solution/blob/HEAD/2244/A%20-%20Iskander%20and%20Drawings/solution.java) |
+
+### greedy
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2244A | [Iskander and Drawings](https://codeforces.com/contest/2244/problem/A) | 800 | [Java 21](https://github.com/DanishBasha/codeforces-solution/blob/HEAD/2244/A%20-%20Iskander%20and%20Drawings/solution.java) |
 
 ### implementation
 
@@ -58,6 +73,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2242D | [Two Digit Strings](https://codeforces.com/contest/2242/problem/D) | 1600 | [Java 21](https://github.com/DanishBasha/codeforces-solution/blob/HEAD/2242/D%20-%20Two%20Digit%20Strings/solution.java) |
+| 2244A | [Iskander and Drawings](https://codeforces.com/contest/2244/problem/A) | 800 | [Java 21](https://github.com/DanishBasha/codeforces-solution/blob/HEAD/2244/A%20-%20Iskander%20and%20Drawings/solution.java) |
 
 ---
 
