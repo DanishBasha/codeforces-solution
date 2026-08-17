@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 7 | 9 |
+| 8 | 9 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (2)
+- [Uncategorized](#uncategorized) (3)
 - [dp](#dp) (2)
 - [games](#games) (1)
 - [greedy](#greedy) (2)
@@ -30,6 +30,7 @@
 |---|---------|------------|----------|
 | 2248A | [You Delete, I Delete](https://codeforces.com/contest/2248/problem/A) | Unrated | [Java 21](https://github.com/DanishBasha/codeforces-solution/blob/HEAD/2248/A%20-%20You%20Delete%2C%20I%20Delete/solution.java) |
 | 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | Unrated | [Java 21](https://github.com/DanishBasha/codeforces-solution/blob/HEAD/2254/A%20-%20Riptide/solution.java) |
+| 2257A | [Creating Abbreviations](https://codeforces.com/contest/2257/problem/A) | Unrated | [Java 21](https://github.com/DanishBasha/codeforces-solution/blob/HEAD/2257/A%20-%20Creating%20Abbreviations/solution.java) |
 
 ### dp
 
