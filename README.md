@@ -6,21 +6,18 @@
 
 | Total Problems | Topics |
 |---|---|
-| 10 | 9 |
+| 4 | 6 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (4)
-- [dp](#dp) (2)
-- [games](#games) (1)
-- [greedy](#greedy) (3)
+- [Uncategorized](#uncategorized) (1)
+- [dp](#dp) (1)
+- [greedy](#greedy) (1)
 - [implementation](#implementation) (1)
-- [math](#math) (3)
-- [number theory](#number-theory) (1)
 - [sortings](#sortings) (2)
-- [strings](#strings) (2)
+- [strings](#strings) (1)
 
 ---
 
@@ -28,65 +25,38 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
-| 2248A | [You Delete, I Delete](https://codeforces.com/contest/2248/problem/A) | Unrated | [Java 21](https://github.com/DanishBasha/codeforces-solution/blob/HEAD/2248/A%20-%20You%20Delete%2C%20I%20Delete/solution.java) |
-| 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | Unrated | [Java 21](https://github.com/DanishBasha/codeforces-solution/blob/HEAD/2254/A%20-%20Riptide/solution.java) |
-| 2257A | [Creating Abbreviations](https://codeforces.com/contest/2257/problem/A) | Unrated | [Java 21](https://github.com/DanishBasha/codeforces-solution/blob/HEAD/2257/A%20-%20Creating%20Abbreviations/solution.java) |
-| 2257B | [Gigantomachy](https://codeforces.com/contest/2257/problem/B) | Unrated | [Java 21](https://github.com/DanishBasha/codeforces-solution/blob/HEAD/2257/B%20-%20Gigantomachy/solution.java) |
+| 2250A | [Threshold Movement](https://codeforces.com/contest/2250/problem/A) | Unrated | [Java 21](https://github.com/DanishBasha/codeforces-solution/blob/HEAD/2250/A%20-%20Threshold%20Movement/solution.java) |
 
 ### dp
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2242D | [Two Digit Strings](https://codeforces.com/contest/2242/problem/D) | 1600 | [Java 21](https://github.com/DanishBasha/codeforces-solution/blob/HEAD/2242/D%20-%20Two%20Digit%20Strings/solution.java) |
-| 2244A | [Iskander and Drawings](https://codeforces.com/contest/2244/problem/A) | 800 | [Java 21](https://github.com/DanishBasha/codeforces-solution/blob/HEAD/2244/A%20-%20Iskander%20and%20Drawings/solution.java) |
-
-### games
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 2244A | [Iskander and Drawings](https://codeforces.com/contest/2244/problem/A) | 800 | [Java 21](https://github.com/DanishBasha/codeforces-solution/blob/HEAD/2244/A%20-%20Iskander%20and%20Drawings/solution.java) |
 
 ### greedy
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
-| 2244A | [Iskander and Drawings](https://codeforces.com/contest/2244/problem/A) | 800 | [Java 21](https://github.com/DanishBasha/codeforces-solution/blob/HEAD/2244/A%20-%20Iskander%20and%20Drawings/solution.java) |
 | 2248B | [Merge to Match](https://codeforces.com/contest/2248/problem/B) | 1000 | [Java 21](https://github.com/DanishBasha/codeforces-solution/blob/HEAD/2248/B%20-%20Merge%20to%20Match/solution.java) |
-| 2253A | [The Best Card](https://codeforces.com/contest/2253/problem/A) | Unrated | [Java 21](https://github.com/DanishBasha/codeforces-solution/blob/HEAD/2253/A%20-%20The%20Best%20Card/solution.java) |
 
 ### implementation
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
-| 2250A | [Threshold Movement](https://codeforces.com/contest/2250/problem/A) | Unrated | [Java 21](https://github.com/DanishBasha/codeforces-solution/blob/HEAD/2250/A%20-%20Threshold%20Movement/solution.java) |
-
-### math
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 2250A | [Threshold Movement](https://codeforces.com/contest/2250/problem/A) | Unrated | [Java 21](https://github.com/DanishBasha/codeforces-solution/blob/HEAD/2250/A%20-%20Threshold%20Movement/solution.java) |
-| 2253A | [The Best Card](https://codeforces.com/contest/2253/problem/A) | Unrated | [Java 21](https://github.com/DanishBasha/codeforces-solution/blob/HEAD/2253/A%20-%20The%20Best%20Card/solution.java) |
-| 2256A | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | Unrated | [Java 21](https://github.com/DanishBasha/codeforces-solution/blob/HEAD/2256/A%20-%20Three%20Numbers%20on%20the%20Blackboard/solution.java) |
-
-### number theory
-
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 2253A | [The Best Card](https://codeforces.com/contest/2253/problem/A) | Unrated | [Java 21](https://github.com/DanishBasha/codeforces-solution/blob/HEAD/2253/A%20-%20The%20Best%20Card/solution.java) |
+| 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | Unrated | [Java 21](https://github.com/DanishBasha/codeforces-solution/blob/HEAD/2254/A%20-%20Riptide/solution.java) |
 
 ### sortings
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2248B | [Merge to Match](https://codeforces.com/contest/2248/problem/B) | 1000 | [Java 21](https://github.com/DanishBasha/codeforces-solution/blob/HEAD/2248/B%20-%20Merge%20to%20Match/solution.java) |
-| 2256A | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | Unrated | [Java 21](https://github.com/DanishBasha/codeforces-solution/blob/HEAD/2256/A%20-%20Three%20Numbers%20on%20the%20Blackboard/solution.java) |
+| 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | Unrated | [Java 21](https://github.com/DanishBasha/codeforces-solution/blob/HEAD/2254/A%20-%20Riptide/solution.java) |
 
 ### strings
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2242D | [Two Digit Strings](https://codeforces.com/contest/2242/problem/D) | 1600 | [Java 21](https://github.com/DanishBasha/codeforces-solution/blob/HEAD/2242/D%20-%20Two%20Digit%20Strings/solution.java) |
-| 2244A | [Iskander and Drawings](https://codeforces.com/contest/2244/problem/A) | 800 | [Java 21](https://github.com/DanishBasha/codeforces-solution/blob/HEAD/2244/A%20-%20Iskander%20and%20Drawings/solution.java) |
 
 ---
 
