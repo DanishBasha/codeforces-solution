@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 4 | 6 |
+| 5 | 6 |
 
 ---
 
@@ -14,7 +14,7 @@
 
 - [Uncategorized](#uncategorized) (1)
 - [dp](#dp) (1)
-- [greedy](#greedy) (1)
+- [greedy](#greedy) (2)
 - [implementation](#implementation) (1)
 - [sortings](#sortings) (2)
 - [strings](#strings) (1)
@@ -38,6 +38,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2248B | [Merge to Match](https://codeforces.com/contest/2248/problem/B) | 1000 | [Java 21](https://github.com/DanishBasha/codeforces-solution/blob/HEAD/2248/B%20-%20Merge%20to%20Match/solution.java) |
+| 2266A | [Good Contest](https://codeforces.com/contest/2266/problem/A) | Unrated | [Java 21](https://github.com/DanishBasha/codeforces-solution/blob/HEAD/2266/A%20-%20Good%20Contest/solution.java) |
 
 ### implementation
 
